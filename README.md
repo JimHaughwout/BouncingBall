@@ -1,5 +1,4 @@
-BouncingBall
-============
+# BouncingBall
 
 Example app playing with touch swipe speed calculations. Swipe the superball to accelerate it and bouce 
 bounce it off a 'wall.' Useful to test if your screen is still touch responsive in all points or just to 
